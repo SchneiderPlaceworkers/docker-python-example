@@ -4,3 +4,4 @@ This repository is a companion to the chapter on containerizing your Python proj
 
 Copied to my own Repo
 And im having fun :)
+Wanna trigger and generate nice readable mail
